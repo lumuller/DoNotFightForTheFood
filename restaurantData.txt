@@ -1,0 +1,6 @@
+Restaurant One;25.0;Food
+Restaurant Two;30.0;Food
+Restaurant Three;35.0;Food
+Restaurant Four;40.0;Food
+Restaurant Five;45.0;Food
+Restaurant Six;50.0;Food
